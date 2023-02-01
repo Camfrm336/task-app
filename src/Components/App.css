@@ -1,0 +1,13 @@
+textarea {
+  resize: none;
+}
+.center {
+  justify-content: center;
+  padding: 10px;
+}
+i.icon {
+  float: right;
+  margin: 20px;
+  font-size: 20px;
+  cursor: pointer;
+}
